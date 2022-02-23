@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/16 08:58:33.000.591,=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/23 08:13:12.000.696,=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/23 08:13:36.000.383,C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06\unPrincipal.dfm</Transaction>
+    <Transaction>2022/02/23 08:13:36.000.383,C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06\unPrincipal.pas</Transaction>
+    <Transaction>2022/02/23 08:13:39.000.505,C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06\Project1.dproj</Transaction>
+    <Transaction>2022/02/23 11:20:54.708,=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06-Editor de texto\Unit2.pas</Transaction>
+    <Transaction>2022/02/23 11:21:21.944,C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06-Editor de texto\unSobre.pas=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06-Editor de texto\Unit2.pas</Transaction>
+    <Transaction>2022/02/23 11:21:21.944,C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06-Editor de texto\unSobre.dfm=C:\Users\kissy.batista\Documents\Embarcadero\Studio\Projects\Kissy\Project06-Editor de texto\Unit2.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
